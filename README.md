@@ -1,8 +1,9 @@
 - Olá, me chamo Rodrigo Seliprin.👋
 - 💻 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou buscando aperfeiçoamento em Javascript, CSS, Node.Js, React.
+- 🌱 Conhecimentos práticos em HTML, CSS, Javascript, Bootstrap, PHP;
+- 🌱 Atualmente estudando React JS, Node JS e Laravel.
 - 💞️ Sempre pronto para novos desafios!
-- 📫 rseliprin@gmail.com 
+- 📫 slpdevelopment.io@gmail.com 
 
 <!---
 seliprinr/seliprinr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
