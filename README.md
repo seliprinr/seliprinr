@@ -1,7 +1,7 @@
 - Olá, me chamo Rodrigo Seliprin.👋
 - 💻 Cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Conhecimentos práticos em HTML, CSS, Javascript, Bootstrap, PHP;
-- 🌱 Atualmente estudando React JS, Node JS e Laravel.
+- 🌱 Atualmente estudando desenvolvimento mobile com Java/Kotlin, Flutter e React Native.
 - 💞️ Sempre pronto para novos desafios!
 - 📫 slpdevelopment.io@gmail.com 
 
