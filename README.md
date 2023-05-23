@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rodrigo Seliprin 👋
 
-Apaixonado por tecnologia e em resolução de problemas 💪
+Apaixonado por tecnologia e na resolução de problemas 💪
 <br />
 
 
