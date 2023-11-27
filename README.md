@@ -10,7 +10,7 @@ Apaixonado por tecnologia e na resolução de problemas 💪
 
 **Sobre mim**
 
-- 📈 Graduando em Análise e Desenvolvimento de Sistemas
+- 📈 Graduado em Análise e Desenvolvimento de Sistemas
 
 - 💼 Experiência em Desenvolvimento Web como freelancer
 
