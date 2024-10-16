@@ -8,13 +8,6 @@ Apaixonado por tecnologia e na resolução de problemas 💪
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seliprinr?igshid=YmMyMTA2M2Y=)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://instagram.com/seliprinr?igshid=YmMyMTA2M2Y=](https://www.facebook.com/rodrigo.seliprin?mibextid=LQQJ4d))
 
-**Sobre mim**
-
-- 📈 Graduado em Análise e Desenvolvimento de Sistemas
-
-- 💼 Experiência em Desenvolvimento Web como freelancer
-
-- 🚀 Participando ativamente da comunidade
 
 <br/>
 
