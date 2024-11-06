@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </div>
 
 ### Frontend & UI
@@ -50,15 +50,15 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  
-  
-
+   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
 </div>
 
 ### Banco de Dados
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 ### Ferramentas de Desenvolvimento e DevOps
@@ -72,15 +72,16 @@
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="Webstorm" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
 ---
 
-## 🌟 Projetos
+## 🎬 Projetos
 
-- [**Nome do Projeto 1**](#) - Breve descrição do projeto, tecnologias usadas, e links.
-- [**Nome do Projeto 2**](#) - Breve descrição do projeto, tecnologias usadas, e links.
+- [**Blog Let's Go Ride**](#) - O projeto tinha como objetivo a criação de algumas páginas web somente com a utilização de HTML, CSS e JavaScript. Foi utilizado Figma para desenvolver o Wireframe e posteriormente o design final do projeto. Foi utilizado Notion para monitorar todas as etapas do projeto e elaborar a documentação do mesmo, além disso, utilizei GIT para versionamento de código e efetuei deploy na Vercel (Plataforma voltada para a hospedagem de aplicações). Website está ativo em https://letsgorideblog.vercel.app/.
+- [**Website Viva Bem**](#) - Este website foi desenvolvido para a Clínica Odontológica e da Saúde - Viva Bem. Oferece serviços de Odontologia, Medicina, Nutrição, Psicologia e Fisioterapia com a captação de venda de convênios. Foi utilizado a biblioteca React por meio de componentes para desenvolvimento do projeto com a estrutura CSS Tailwind, versionamento de código GIT, conjunto de estratégias SEO para mecanismos de busca, servidor de hospedagem Hostgator para além da hospedagem, aquisição de domínio e e-mail profissional, cliente já havia disponibilizado o checkout de cada plano. Foi utilizado também o Figma para design do projeto e ferramenta de gestão de projetos TRELLO. Website está ativo em https://vivabem.med.br/ 
 
 ---
 
