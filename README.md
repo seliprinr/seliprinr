@@ -12,10 +12,10 @@
    Brasil
 
 🌱 **Atualmente aprendendo:**  
-   Aprimorando minhas habilidades em Java, Banco de Dados e Cloud Computing para construir soluções eficientes e escaláveis.
+   - Aprimorando minhas habilidades em Java, Banco de Dados e Cloud Computing para construir soluções eficientes e escaláveis.
 
 💼 **Interesses Profissionais:**  
-   Desenvolvimento Full Stack, Arquitetura de Software, e Soluções de Cloud Computing.
+   - Desenvolvimento Full Stack, Arquitetura de Software, e Soluções de Cloud Computing.
 
 ---
 
