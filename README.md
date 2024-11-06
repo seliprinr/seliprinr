@@ -1,4 +1,4 @@
-👋 **Olá! Bem-vindo ao meu GitHub.** Sou Rodrigo, um desenvolvedor apaixonado por tecnologia e inovação!
+## 👋 **Olá! Bem-vindo ao meu GitHub.** Sou Rodrigo, um desenvolvedor apaixonado por tecnologia e inovação!
 
 ---
 
