@@ -9,7 +9,7 @@
    - Técnico em Informática para Internet pela UFSM
 
 📍 **Localização:**  
-   Brasil
+   - Santa Maria/RS - Brasil
 
 🌱 **Atualmente aprendendo:**  
    - Aprimorando minhas habilidades em Java, Banco de Dados e Cloud Computing para construir soluções eficientes e escaláveis.
