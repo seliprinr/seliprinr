@@ -1,4 +1,5 @@
-## OLá. eu sou o Rodrigo!👋
+## Olá. eu sou o Rodrigo!👋
+<br />
 
 🎓Graduado em Análise e Desenvolvimento de Sistemas
 <br />
