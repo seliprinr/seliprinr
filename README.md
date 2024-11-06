@@ -81,6 +81,7 @@
 ## 🎬 Projetos
 
 - [**Blog Let's Go Ride**](#) - O projeto tinha como objetivo a criação de algumas páginas web somente com a utilização de HTML, CSS e JavaScript. Foi utilizado Figma para desenvolver o Wireframe e posteriormente o design final do projeto. Foi utilizado Notion para monitorar todas as etapas do projeto e elaborar a documentação do mesmo, além disso, utilizei GIT para versionamento de código e efetuei deploy na Vercel (Plataforma voltada para a hospedagem de aplicações). Website está ativo em https://letsgorideblog.vercel.app/.
+  
 - [**Website Viva Bem**](#) - Este website foi desenvolvido para a Clínica Odontológica e da Saúde - Viva Bem. Oferece serviços de Odontologia, Medicina, Nutrição, Psicologia e Fisioterapia com a captação de venda de convênios. Foi utilizado a biblioteca React por meio de componentes para desenvolvimento do projeto com a estrutura CSS Tailwind, versionamento de código GIT, conjunto de estratégias SEO para mecanismos de busca, servidor de hospedagem Hostgator para além da hospedagem, aquisição de domínio e e-mail profissional, cliente já havia disponibilizado o checkout de cada plano. Foi utilizado também o Figma para design do projeto e ferramenta de gestão de projetos TRELLO. Website está ativo em https://vivabem.med.br/ 
 
 ---
