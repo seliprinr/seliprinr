@@ -1,6 +1,5 @@
-## Olá! Eu sou o Rodrigo Seliprin 👋
-
-Apaixonado por tecnologia e na resolução de problemas 💪
+🎓Graduado em Análise e Desenvolvimento de Sistemas
+💻Técnico em Informática para Internet UFSM
 <br />
 
 
