@@ -1,4 +1,5 @@
 🎓Graduado em Análise e Desenvolvimento de Sistemas
+<br />
 💻Técnico em Informática para Internet UFSM
 <br />
 
