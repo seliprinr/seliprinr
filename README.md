@@ -1,8 +1,11 @@
 # 👋 Olá! Eu sou Rodrigo Seliprin
 
 💻 **Desenvolvedor Full Stack** com experiência no desenvolvimento e manutenção de sistemas de grande escala para o setor público.
+
 🎓 **Mestrando em Ciência da Computação pela UFSM**, graduado em Análise e Desenvolvimento de Sistemas e Técnico em Informática para Internet.
+
 🚀 Apaixonado por **Arquitetura de Software**, **Desenvolvimento Web** e **soluções escaláveis** utilizando Java, Angular e Cloud Computing.
+
 📍 **Santa Maria/RS - Brasil**
 
 ---
