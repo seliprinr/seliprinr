@@ -1,21 +1,20 @@
-## 👋 **Olá! Bem-vindo ao meu GitHub.** Sou Rodrigo, um desenvolvedor apaixonado por tecnologia e inovação!
+## 👋 Olá! Eu Sou Rodrigo Seliprin.
 
 ---
 
-## Sobre Mim
-
-🎓 **Formação:**  
-   - Graduado em Análise e Desenvolvimento de Sistemas  
-   - Técnico em Informática para Internet pela UFSM
+   - Desenvolvedor Full Stack com experiência em desenvolvimento e manutenção de sistemas de grande escala para o setor público.
+   - Mestrando em Ciência da Computação pela UFSM e graduado em Análise e Desenvolvimento de Sistemas.
+   - Apaixonado por Arquitetura de Software, Desenvolvimento Web e soluções escaláveis com Java, Angular e Cloud Computing.
 
 📍 **Localização:**  
    - Santa Maria/RS - Brasil
 
-🌱 **Atualmente aprendendo:**  
-   - Aprimorando minhas habilidades em Java, Banco de Dados e Cloud Computing para construir soluções eficientes e escaláveis.
-
-💼 **Interesses Profissionais:**  
-   - Desenvolvimento Full Stack, Arquitetura de Software, e Soluções de Cloud Computing.
+💼 **Experiência**  
+   - Desenvolvimento e manutenção de sistemas governamentais de grande escala
+   - Desenvolvimento Full Stack utilizando Java, Spring Boot e Angular
+   - Criação e consumo de APIs REST
+   - Modelagem e otimização de bancos de dados relacionais
+   - Integração entre sistemas e manutenção evolutiva
 
 ---
 
@@ -29,6 +28,10 @@
 ## ⚙️ GitHub Stats
 
 ![Seliprin GitHub stats](https://github-readme-stats.vercel.app/api?username=seliprinr&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=seliprinr&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seliprinr&layout=compact&theme=tokyonight)
 
 ---
 
@@ -78,12 +81,44 @@
 
 ---
 
-## 🎬 Projetos
+## 🏛️ Projetos em Destaque
 
-- [**Blog Let's Go Ride**](#) - O projeto tinha como objetivo a criação de algumas páginas web somente com a utilização de HTML, CSS e JavaScript. Foi utilizado Figma para desenvolver o Wireframe e posteriormente o design final do projeto. Foi utilizado Notion para monitorar todas as etapas do projeto e elaborar a documentação do mesmo, além disso, utilizei GIT para versionamento de código e efetuei deploy na Vercel (Plataforma voltada para a hospedagem de aplicações). Website está ativo em https://letsgorideblog.vercel.app/.
-  
-- [**Website Viva Bem**](#) - Este website foi desenvolvido para a Clínica Odontológica e da Saúde - Viva Bem. Oferece serviços de Odontologia, Medicina, Nutrição, Psicologia e Fisioterapia com a captação de venda de convênios. Foi utilizado a biblioteca React por meio de componentes para desenvolvimento do projeto com a estrutura CSS Tailwind, versionamento de código GIT, conjunto de estratégias SEO para mecanismos de busca, servidor de hospedagem Hostgator para além da hospedagem, aquisição de domínio e e-mail profissional, cliente já havia disponibilizado o checkout de cada plano. Foi utilizado também o Figma para design do projeto e ferramenta de gestão de projetos TRELLO. Website está ativo em https://vivabem.med.br/ 
+### 🎣 PNIP - Programa Nacional de Identificação de Pescadores
+
+Atuação no desenvolvimento e manutenção de funcionalidades para o sistema responsável pela gestão e identificação de pescadores profissionais no Brasil.
+
+**Tecnologias:** Java, Spring Boot, Angular, PostgreSQL, REST APIs
+
+**Principais atividades:**
+- Desenvolvimento de novas funcionalidades
+- Correção de bugs e manutenção evolutiva
+- Integração entre sistemas governamentais
+- Implementação de regras de negócio relacionadas ao setor pesqueiro
 
 ---
 
-**Vamos conversar?** Sinta-se à vontade para entrar em contato ou seguir meus projetos aqui no GitHub.
+### 🐟 PROPESC - Sistema de Relatórios de Pesca
+
+Participação no desenvolvimento e evolução do sistema utilizado para registro e acompanhamento das atividades pesqueiras, auxiliando no monitoramento e na gestão dos recursos pesqueiros nacionais.
+
+**Tecnologias:** Java, Spring Boot, Angular, PostgreSQL
+
+**Principais atividades:**
+- Desenvolvimento Full Stack
+- Implementação de formulários e fluxos de negócio
+- Integração com serviços externos
+- Correções e melhorias contínuas
+
+---
+
+### 🚢 PesqBrasil Monitoramento
+
+Atuação no desenvolvimento de funcionalidades relacionadas ao monitoramento pesqueiro, rastreamento de embarcações e análise de dados para apoio à fiscalização e gestão da atividade pesqueira.
+
+**Tecnologias:** Java, Spring Boot, Angular, PostgreSQL, Docker
+
+**Principais atividades:**
+- Desenvolvimento de novas funcionalidades
+- Manutenção de sistemas legados
+- Otimização de consultas e desempenho
+- Integração com APIs e serviços governamentais
