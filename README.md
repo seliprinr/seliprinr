@@ -1,17 +1,13 @@
 # 👋 Olá! Eu sou Rodrigo Seliprin
 
 💻 **Desenvolvedor Full Stack** com experiência no desenvolvimento e manutenção de sistemas de grande escala para o setor público.
-
 🎓 **Mestrando em Ciência da Computação pela UFSM**, graduado em Análise e Desenvolvimento de Sistemas e Técnico em Informática para Internet.
-
 🚀 Apaixonado por **Arquitetura de Software**, **Desenvolvimento Web** e **soluções escaláveis** utilizando Java, Angular e Cloud Computing.
-
 📍 **Santa Maria/RS - Brasil**
 
 ---
 
 ## 💼 Experiência
-
 - Desenvolvimento e manutenção de sistemas governamentais de grande escala;
 - Desenvolvimento Full Stack com **Java, Spring Boot e Angular**;
 - Criação e consumo de APIs REST;
@@ -21,7 +17,6 @@
 ---
 
 ## 🤝 Conecte-se Comigo
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-seliprin-249478227/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seliprinr)
 
@@ -30,17 +25,13 @@
 ## ⚙️ GitHub Stats
 
 ![Seliprin GitHub stats](https://github-readme-stats.vercel.app/api?username=seliprinr&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=seliprinr&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seliprinr&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-
 ### Linguagens de Programação e Frameworks
-
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
@@ -52,7 +43,6 @@
 </p>
 
 ### Frontend & UI
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -63,14 +53,12 @@
 </p>
 
 ### Banco de Dados
-
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ### Ferramentas de Desenvolvimento e DevOps
-
 <p>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -78,7 +66,6 @@
 </p>
 
 ### IDEs e Ferramentas
-
 <p>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
@@ -91,7 +78,6 @@
 ## 🏛️ Projetos em Destaque
 
 ### 🎣 PNIP – Plataforma Nacional da Indústria do Pescado
-
 Atuação no desenvolvimento e evolução da plataforma utilizada pelo Ministério da Pesca e Aquicultura para gestão das certificações e habilitações de embarcações integradas à cadeia produtiva do pescado brasileiro. O sistema apoia processos relacionados à certificação higiênico-sanitária, acreditação de origem legal e conformidade de embarcações destinadas aos mercados nacional e internacional.
 
 **Stack:** Java • Spring Boot • Angular • PostgreSQL • REST APIs
@@ -106,7 +92,6 @@ Atuação no desenvolvimento e evolução da plataforma utilizada pelo Ministér
 ---
 
 ### 🐟 PROPESC – Programa Nacional de Regularização de Embarcações de Pesca
-
 Participação no desenvolvimento do sistema que apoia a execução do Programa Nacional de Regularização de Embarcações de Pesca, iniciativa voltada à atualização cadastral, vistoria e regularização das embarcações registradas no Registro Geral da Atividade Pesqueira (RGP). O sistema contribui para o fortalecimento do monitoramento, da sustentabilidade pesqueira e do acesso às políticas públicas do setor.
 
 **Stack:** Java • Spring Boot • Angular • PostgreSQL
@@ -121,7 +106,6 @@ Participação no desenvolvimento do sistema que apoia a execução do Programa 
 ---
 
 ### 🚢 PesqBrasil Monitoramento
-
 Atuação no desenvolvimento do sistema oficial do Ministério da Pesca e Aquicultura para monitoramento das cotas de captura e gestão sustentável dos recursos pesqueiros. A plataforma centraliza informações estratégicas para acompanhamento das atividades pesqueiras, apoiando a tomada de decisão e o controle de espécies submetidas a regimes de cotas em todo o território nacional.
 
 **Stack:** Java • Spring Boot • Angular • PostgreSQL • Docker
